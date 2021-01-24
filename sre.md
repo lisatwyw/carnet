@@ -1,6 +1,10 @@
 
 
-## SRE: actual access
+## SRE: Logging onto machine for first time
+
+These are important notes to supplement those from [MyPopData][https://my.popdata.bc.ca/html/SRE/mac/connecting.html)
+
+0. Plug in Yubikey
 
 1. Update passphrase
 
