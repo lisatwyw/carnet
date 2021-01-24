@@ -1,12 +1,20 @@
-## Requests
+# SRE
 
-|  | Task | status |
-|---|---|---|
-| |1. Jupyter Notebook or Lab| |
+## SRE setup
+
+Requests:
+
+| Date | Task | status |
+|---|---|---| 
+| 2021-Jan-24 | 1. Jupyter Notebook or Lab| pending |
+| 2021-Jan-XX | 1. Python packages | pending |
+
+### Missing packages
 
 
 
-## SRE: Logging onto machine for first time
+
+## Logging onto machine for first time
 
 These are important notes to supplement those from [MyPopData](https://my.popdata.bc.ca/html/SRE/mac/connecting.html). Assumptions: 
 - You've already installed: 
