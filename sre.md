@@ -4,7 +4,7 @@
 
 These are important notes to supplement those from [MyPopData](https://my.popdata.bc.ca/html/SRE/mac/connecting.html)
 
-# Assumptions: 
+### Assumptions: 
 - already installed: 
     - Cisco AnyConnect for VPN (not typicall on Mac nor Windows)
     - Microsoft Remote Desktop (not typicall on Mac)
