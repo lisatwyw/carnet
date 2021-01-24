@@ -17,8 +17,8 @@ These are important notes to supplement those from [MyPopData](https://my.popdat
 3. AnyConnect VPN [see more details](https://my.popdata.bc.ca/html/SRE/mac/connecting.html)
 
   - ```access.popdata.bc.ca``` as address
-  - Group: sreyubi
-  - DO NOT PRESS ENTER; DO NOT CLICK OK; instead, touch on copper on your Yubikey
+  - Group: ```sreyubi```
+  - *DO NOT PRESS ENTER; DO NOT CLICK OK; instead, touch on copper on your Yubikey*
 
 4. RDP
   - PC name must match exactly, e.g. "fast1", not "fast 1"
