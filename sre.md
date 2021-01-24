@@ -1,3 +1,9 @@
+## Requests
+
+|  | Task | status |
+| |1. Jupyter Notebook or Lab| |
+
+
 
 ## SRE: Logging onto machine for first time
 
