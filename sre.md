@@ -4,6 +4,12 @@
 
 These are important notes to supplement those from [MyPopData](https://my.popdata.bc.ca/html/SRE/mac/connecting.html)
 
+# Assumptions: 
+- already installed: 
+    a. Cisco AnyConnect for VPN (not typicall on Mac nor Windows)
+    b. Microsoft Remote Desktop (not typicall on Mac)
+
+
 0. Plug in Yubikey
 
 1. Update passphrase
