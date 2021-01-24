@@ -6,21 +6,21 @@ These are important notes to supplement those from [MyPopData](https://my.popdat
 
 # Assumptions: 
 - already installed: 
-    a. Cisco AnyConnect for VPN (not typicall on Mac nor Windows)
-    b. Microsoft Remote Desktop (not typicall on Mac)
+    - Cisco AnyConnect for VPN (not typicall on Mac nor Windows)
+    - Microsoft Remote Desktop (not typicall on Mac)
 
 
-0. Plug in Yubikey
+1. Plug in Yubikey
 
-1. Update passphrase
+2. Update passphrase on https://my.popdata.bc.ca/password (may keep the same one) to synchronize the activated project folder
 
-2. VPN [details](https://my.popdata.bc.ca/html/SRE/mac/connecting.html)
+3. AnyConnect VPN [see more details](https://my.popdata.bc.ca/html/SRE/mac/connecting.html)
 
-  - access.popdata.bc.ca
+  - ```access.popdata.bc.ca``` as address
   - Group: sreyubi
   - DO NOT PRESS ENTER; DO NOT CLICK OK; instead, touch on copper on your Yubikey
 
-3. RDP
+4. RDP
   - PC name must match exactly, e.g. "fast1", not "fast 1"
 
  
