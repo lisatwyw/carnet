@@ -11,7 +11,7 @@
   - DO NOT PRESS ENTER; DO NOT CLICK OK; instead, touch on copper on your Yubikey
 
 3. RDP
-  - PC name must match exactly 'fast1'
+  - PC name must match exactly, e.g. "fast1", not "fast 1"
 
  
 
