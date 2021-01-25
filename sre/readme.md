@@ -17,6 +17,6 @@
 Catalog
 
 ```
-myvpn.ubc.ca
+myvpn.ubc.ca  # to rdp to laptop
 access.popdata.bc.ca
 ```
