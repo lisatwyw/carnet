@@ -15,6 +15,7 @@ Requests:
 - sas7bdat
 - saspy
 - from dask.distributed import Client
+- tensorflow
 
 
 ## Logging onto machine for first time
