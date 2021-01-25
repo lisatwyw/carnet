@@ -14,7 +14,7 @@ Requests:
 
 - sas7bdat
 - saspy
-- 
+- from dask.distributed import Client
 
 
 ## Logging onto machine for first time
