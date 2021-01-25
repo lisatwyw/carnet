@@ -4,7 +4,7 @@
    - e.g. we may not use their platform for recruiting out-of-province participants
    - they suggested https://bethecure.ca/ if recruiting from Alberta 
    
-- Clicking "Join" on REACH BC without an active volunteer account is not streamlined (will not redirect to the study link)
+- Clicking ```Join``` on REACH BC without an active volunteer account is not streamlined (will not redirect to the study link)
 
 - Making edits on the REACH BC form will inactivate the study until REACH BC staff approves the edits 
   - So perhaps refrain from doing this or email their staff for immediate approval?
