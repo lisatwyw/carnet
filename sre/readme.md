@@ -1,7 +1,7 @@
 
 ## SRE
 
-[getting started](started.md)
+[getting started](getting_started.md)
 
 
 ## Pre-publication review form:
