@@ -6,8 +6,8 @@
 
 ## Pre-publication review form:
 
-- wwww.popdata.bc.ca/publishing_research_materials
-- wwww.popdata.bc.ca/publishing_research_materials/citingsources
-- wwww.popdata.bc.ca/publishing_research_materials/forms/prepublicdisclosure_review
+- [publication requirements](wwww.popdata.bc.ca/publishing_research_materials)
+- [citing](wwww.popdata.bc.ca/publishing_research_materials/citingsources)
+- [prepublication review form](wwww.popdata.bc.ca/publishing_research_materials/forms/prepublicdisclosure_review)
 
 
