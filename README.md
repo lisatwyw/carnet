@@ -2,7 +2,7 @@
 
 ## SRE
 
-- [Getting started on SRE](sre.md)
+- [Getting started on SRE](sre/started.md)
 
 ## T4H
 
