@@ -17,6 +17,12 @@
 Catalog
 
 ```
-myvpn.ubc.ca  # to rdp to laptop
+myvpn.ubc.ca 
+
+To rdp to laptop
+username.vchrivpn
+```
+
+```
 access.popdata.bc.ca
 ```
