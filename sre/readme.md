@@ -1,7 +1,7 @@
 
 ## SRE
 
-- [getting started](getting_started.md)
+- [Getting started](getting_started.md)
 - [Get help](help.md)
 
 ## Pre-publication review form:
