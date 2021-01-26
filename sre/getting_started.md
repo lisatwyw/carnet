@@ -38,8 +38,26 @@ These are important notes to supplement those from [MyPopData](https://my.popdat
 4. RDP
   - PC name must match exactly, e.g. "fast1", not "fast 1"
 
- 
-## Environment
+
+## Transfers in/out
+
+### Setup on local machine:
+
+1. On Mac: 
+    File Explorer: Go > ```Connect to Server```
+2. Enter: 
+    ```cifs://PROJECT_SPECIFIC_USERNAME@fraser.popdata.bc.ca/PROJECT_SPECIFIC_USERNAME``` 
+3. Click ```Connect```
+4. Use PROJECT_SPECIFIC_USERNAME when prompted for usename
+5. Drag files into ```IMPORT_TO_SRE```
+
+### On RDP machine:
+
+6. Click ```IMPORT-IT``` (under U:/TRANSFER)
+7. Double check that the transfer is allowed and click ```Confirm``` after
+
+
+## Computing environment
  
 ### Software
 
