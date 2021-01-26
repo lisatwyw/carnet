@@ -2,9 +2,8 @@
 |||
 |---|---|
 | Meeting title | T4H Focus group - next steps & project management |
-| Meeting invite content | 
-
-- Items already completed:
+| Meeting invite content | Meeting objectives: items below reviewed and discussed:
+Items already completed:
   - REACH BC - online flyer posted
   - Operation approval form [additions from Dr. Lynn]
   
