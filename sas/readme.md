@@ -1,6 +1,8 @@
 
 
-## Quick dive into SAS 7.0
+# Quick dive into SAS 7.0
+
+## Control
 
 - ```Run``` (stickman figure) icon to execute code
 - Control + E to clear log
