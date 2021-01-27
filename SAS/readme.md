@@ -17,3 +17,21 @@
 
 - ```/*  this is a comment */```
 - Highlight and run sections: select code snippets and then click ```Run``` will execute only selected code snippets  
+
+
+## Examples
+
+```
+%inc 'R:working\library\macros.sas'; /* include library*/
+
+proc sql;
+  create table demog as
+    select A.studyid, A.dob, A.sex, B.death_dt as death_date
+    from C as A left join raw_data.deaths as B on A.studyid = B.studyid
+quit;
+
+proc contents data = C;
+  title 'Demographic data';
+run;
+
+```
