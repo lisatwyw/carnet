@@ -22,7 +22,7 @@
 ## Examples
 
 ```
-%inc 'R:working\library\macros.sas'; /* include library*/
+%inc 'R:\working\library\macros.sas';    /* Include library */
 
 proc sql;
   create table demog as
