@@ -5,7 +5,7 @@
 ## Control
 
 - ```Run``` (stickman figure) icon to execute code
-- Control + E to clear log
+- ```Control``` + ```E``` to clear log
 
 
 ## Tips
