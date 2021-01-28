@@ -50,13 +50,13 @@ run;
 
 ### Sort records by StudyID, then by descending death_dt
 ```
-proc sort data=demo; by StudyID descending death_dt; run;
+proc sort data=filename_of_db; by StudyID descending death_dt; run;
 ```
 
 ### Output the first occurrence for each studyid (second occurrence will be dropped)
 ```
-data demo;
-  set demo;
+data folder.filename_of_db;
+  set filename_of_db;
   by studyid;
   if first.studyid then output;
 run;
