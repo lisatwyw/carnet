@@ -25,6 +25,7 @@ Coming
 
 ## Examples
 
+### Joining two tables using SQL syntax; commenting, show summary of table
 ```
 /* Below include library at noted location */
 %inc 'R:\working\library\macros.sas';    
@@ -39,7 +40,6 @@ proc sql;
 quit;
 
 
-
 /* Below will generate summary table for C */ 
 proc contents data = C;
   title 'Demographic data';
@@ -48,4 +48,16 @@ run;
 ```
 
 
+#### Sort records by StudyID, then by descending death_dt
+```
+proc sort data=demo; by StudyID descending death_dt; run;
+```
 
+### Drop duplicates by outputing the first occurrence for each studyid
+```
+data demo;
+  set demo;
+  by studyid;
+  if first.studyid then output;
+run;
+```
