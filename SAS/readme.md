@@ -1,8 +1,4 @@
 
-# Quick dive into SAS/IML Studio 14.3
-
-Coming
-
 
 # Quick dive into SAS 7.0
 
@@ -22,5 +18,14 @@ Coming
 - ```/*  this is a comment */```
 - Highlight and run sections: select code snippets and then click ```Run``` will execute only selected code snippets  
 - Sorting: capital letters first, then lower case characters
+
+## Examples
+
+(See few examples from a Python programmer)[examples.md]
+
+# Quick dive into SAS/IML Studio 14.3
+
+Coming
+
 
 
