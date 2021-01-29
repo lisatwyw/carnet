@@ -5,6 +5,16 @@
 Data JoinedDS;
   set folder.database1 folder.database2; 
 run;
+
+/* new table exists in memory (working session) only, not saved to file */
+```
+
+```
+/* below will save to FOLDER  */
+
+Data FOLDER.JoinedDS;
+  set folder.database1 folder.database2; 
+run;
 ```
 
 
