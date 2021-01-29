@@ -21,7 +21,7 @@
 
 ## Examples
 
-[See few examples from a Python programmer](examples.md)
+[See few examples from a Python programmer new to SAS](examples.md)
 
 # Quick dive into SAS/IML Studio 14.3
 
