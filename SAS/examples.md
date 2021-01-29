@@ -1,12 +1,15 @@
-# Examples (from a Python coder)
+# First-time examples (from a Python developer's perspective)
+
+### Simple join of two tables
+```
+Data JoinedDS;
+  set folder.database1 folder.database2; 
+run;
+```
+
 
 ### Joining two tables using SQL syntax; commenting, show summary of table
 ```
-/* Below include library at noted location */
-%inc 'R:\working\library\macros.sas';    
-
-
-
 /* Below generates SQL query to join 2 tables using studyid as keys */
 proc sql;
   create table demog as
@@ -22,6 +25,17 @@ run;
 
 ```
 
+
+### Macros
+```
+/* Below include library at noted location */
+%inc 'R:\working\library\macros.sas';    
+
+%macro MACRO_NAME;
+/* */
+%mend MACRO_NAME;
+
+```
 
 ### Sort records by StudyID, then by descending death_dt
 ```
