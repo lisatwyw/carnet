@@ -1,4 +1,7 @@
 
+# SAS
+
+SAS = Statistical Analysis Software
 
 # Quick dive into SAS 7.0
 
