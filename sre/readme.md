@@ -31,3 +31,8 @@ username.vchrivpn
 ```
 access.popdata.bc.ca
 ```
+
+
+## Python in IDLE
+
+- Turn-off ```Auto-completion``` (a pain otherwise!!!) 
