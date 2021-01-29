@@ -21,7 +21,9 @@
 
 ## Examples
 
-[See few examples from a Python programmer new to SAS](examples.md)
+- [See few examples from a Python programmer new to SAS](examples.md)
+- [SAS tutorial: 3 steps to build macro program](https://www.youtube.com/watch?v=Fe_Efkl3enM)
+
 
 # Quick dive into SAS/IML Studio 14.3
 
