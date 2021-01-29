@@ -19,12 +19,15 @@ run;
 
 
 ### Joining two tables using SQL syntax; commenting, show summary of table
+
+- Usually SQL preferred over data
+
 ```
 /* Below generates SQL query to join 2 tables using studyid as keys */
 proc sql;
   create table demog as
     select A.studyid, A.dob, A.sex, B.death_dt as death_date
-    from C as A left join raw_data.deaths as B on A.studyid = B.studyid
+    from C as A left join raw_data.deaths as B on A.studyid = B.studyid;
 quit;
 
 
