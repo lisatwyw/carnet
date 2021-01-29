@@ -6,7 +6,7 @@
 
 - ```Run``` (stickman figure) icon to execute code
 - ```Control``` + ```E``` to clear log
-
+- Explorer: to view the list of variables in memory 
 
 ## Tips
 
@@ -27,7 +27,7 @@
 
 # Quick dive into SAS/IML Studio 14.3
 
-Coming
+...Coming
 
 
 
