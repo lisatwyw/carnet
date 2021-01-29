@@ -40,3 +40,12 @@ data FOLDER.FILENAME;
   if first.studyid then output;
 run;
 ```
+
+### Histograms
+
+```
+proc univariate data = E;
+  var max;
+  histogram;
+  run;
+```
