@@ -35,4 +35,6 @@ access.popdata.bc.ca
 
 ## Python in IDLE
 
-- Turn-off ```Auto-completion``` (a pain otherwise!!!) 
+- Turn-off Auto-completion; a pain otherwise (to wait for suggestions to come up)!!!
+  - Options menu (northeast corner), untic ```Enable Auto-completion```
+  - Untic other options too, unless you find them helpful
