@@ -32,7 +32,7 @@ SAS = Statistical Analysis Software
 
 # Quick dive into SAS Enterprise Guide
 
-- [Extract timeseries using wizard](https://www.youtube.com/watch?v=Fe_Efkl3enM)
+- [Extract timeseries using wizard](https://www.youtube.com/watch?v=K-lR8lJpg1k)
 
 
 
