@@ -29,3 +29,7 @@ y = 6.7220477 + 0.083893 x
 - grey area too wide on left:
     - residuals need to be normally distributed 
     - residuals need to have constant variation 
+
+
+### Ordinary least-squares regression (OLS)
+- mean is not good measure of central tendency for skewed distributions
