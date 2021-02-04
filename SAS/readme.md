@@ -32,22 +32,7 @@ SAS = Statistical Analysis Software
 
 - [Quantile regression](quantile_regress.md) 
 
-- Calculate means for all numeric variables
-  ```
-  proc means data = sample_data;
-    class province;
-    var baby_wt; 
-  run;
-  ```
-  
-  For larger tables:
-  ```
-  proc means data = sample_data;  
-    by province; 
-    var baby_wt;
-  run;
-  ```
-
+- [Basic quantitative summary](basic_quant.md)
 
 
 
