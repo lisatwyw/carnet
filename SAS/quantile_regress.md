@@ -32,4 +32,10 @@ y = 6.7220477 + 0.083893 x
 
 
 ### Ordinary least-squares regression (OLS)
-- mean is not good measure of central tendency for skewed distributions
+- mean is not good measure of central tendency for **skewed distributions**
+- even few outliers affect regression model
+
+### Median regression 
+- rather than to predict average, **predict median**
+
+
