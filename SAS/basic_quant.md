@@ -49,4 +49,12 @@ run;
 
 ## univarate
 
-generate histogram
+- To generate a histogram
+
+```
+proc univariate data = E;
+  var max;
+  histogram;
+  run;
+```
+
