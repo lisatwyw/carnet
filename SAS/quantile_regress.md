@@ -64,7 +64,7 @@ y = 6.7220477 + 0.083893 x
 - percentile: 0-100
 
 
-### QR
+## Quantile Regression
 
 - Often we'd like 90th percentile, e.g. to assess system for most patients
 
@@ -87,12 +87,24 @@ proc quantreg data = sashelp.bweight ci=sparsity/ iid algorithm=interior (tolera
 run;
 ```   
 
+- hold everything constant, the plot allows us to see...
+- x axis is the range of baby weight
+
 Observations:
+
 1. sex: boys tend to weigh more
-- difference in baby sex is more pronounced for heavier baby boys (150g for boys vs 60 girls) 
+  - difference in baby sex is more pronounced for heavier baby boys (150g for boys vs 60 girls) 
 
 2. martial status: not married on left-hand side 
 
+3. race: black mother; constant vs curved slopes 
+  - ```-200 grams``` in black mothers 
+  
+
+## Caveats
+
+- Continuous values work; does not work for binary outcomes (since 90th percentile of binary variable makes little sense)
+- Counts should work
   
 ### Remedies when central tendency assumption is invalid
 
