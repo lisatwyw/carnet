@@ -30,7 +30,7 @@ SAS = Statistical Analysis Software
 
 ## Data analyses examples
 
-- [Quantile](quantile_regress.md) 
+- [Quantile regression](quantile_regress.md) 
 
 - Calculate means for all numeric variables
   ```
