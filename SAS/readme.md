@@ -22,10 +22,31 @@ SAS = Statistical Analysis Software
 - Highlight and run sections: select code snippets and then click ```Run``` will execute only selected code snippets  
 - Sorting: capital letters first, then lower case characters
 
-## Examples
+## Database examples
 
 - [See few examples from a Python programmer new to SAS](examples.md)
 - [SAS tutorial: 3 steps to build macro program](https://www.youtube.com/watch?v=Fe_Efkl3enM)
+
+
+## Data analyses examples
+
+- [Quantile](quantile_regress.md) 
+
+- Calculate means for all numeric variables
+  ```
+  proc means data = sample_data;
+    class province;
+    var baby_wt; 
+  run;
+  ```
+  
+  For larger tables:
+  ```
+  proc means data = sample_data;  
+    by province; 
+    var baby_wt;
+  run;
+  ```
 
 
 
