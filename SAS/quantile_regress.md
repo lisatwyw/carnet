@@ -81,7 +81,8 @@ y = 6.7220477 + 0.083893 x
 proc quantreg data = sashelp.bweight ci=sparsity/ iid algorithm=interior (tolerance=1.e-4); 
 
   class visit momedlevel; /* categories */
-  model weight = black married boy visit momedlevel cigsperday momsmoke momage momage*momage momwtgain / quantile = 0.05 to 0.95 by 0.05 plot=quantplot;
+  model weight = black married boy visit momedlevel cigsperday momsmoke momage 
+  momage*momage momwtgain momwtgain*momwtgain / quantile = 0.05 to 0.95 by 0.05 plot=quantplot;
   
 run;
 ```   
