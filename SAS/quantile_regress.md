@@ -1,4 +1,4 @@
-#  Quantile regression
+#  Quantile regression (QR)
 
 [PopDataBC Webinar 2021-Jan-27](https://www.youtube.com/watch?v=b6HMdUe9gy4&feature=emb_logo)
 
@@ -6,7 +6,7 @@
 
 ### SAS code
 ```
-proc glm data = sample;
+proc glm data = sample_skewed_dataset;
   model y = x;
 run;
 ```
@@ -23,7 +23,7 @@ y = 6.7220477 + 0.083893 x
 
 
 ## Inference
-- confidence interval
+- confidence interval tells us how confident we can be with the prediction
 - standard error (drawn from data) 
 - grey area too narrow on right: fails to represent the uncertainty on the right
 - grey area too wide on left:
@@ -37,5 +37,22 @@ y = 6.7220477 + 0.083893 x
 
 ### Median regression 
 - rather than to predict average, **predict median**
+- no assumptions about distribution
+- less affected by outliers
+- solved iteratively, no closed form solution, also no closed form solution for standard errors
+- bootstrap to obtain standard errors/ c.i. 
 
+```
+ods graphics on; /*output delivery service*/
+
+proc quantreg data = sample_skewed_dataset; 
+  ci =resampling; 
+  model y = x / quantiles = 0.5 plot=fitplot (showlimits);
+run;
+
+ods graphics off;
+```
+
+### QR
+- 
 
