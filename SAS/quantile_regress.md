@@ -75,7 +75,8 @@ y = 6.7220477 + 0.083893 x
   run;
   ```
 
-- Example with interactions (\*) ```birth weight``` of babies:
+#### Example with interactions (\*) birth weight of babies
+
 ```
 proc quantreg data = sashelp.bweight ci=sparsity/ iid algorithm=interior (tolerance=1.e-4); 
 
@@ -85,6 +86,17 @@ proc quantreg data = sashelp.bweight ci=sparsity/ iid algorithm=interior (tolera
 run;
 ```   
 
+Observations:
+1. sex: boys tend to weigh more
+- difference in baby sex is more pronounced for heavier baby boys (150g for boys vs 60 girls) 
+
+2. martial status: not married on left-hand side 
+
+  
+### Remedies when central tendency assumption is invalid
+
+- transformation, e.g. log 
+- weighted regression
   
 
 
