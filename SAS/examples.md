@@ -79,6 +79,6 @@ run;
 ```
 data dsname;
   set dsname;
-  DIN = put(DINPIN, z8.);  /* Eight digit */
+  DIN = put(DINPIN, z8.);  /* Eight digits pharma code */
 run;
 ```
