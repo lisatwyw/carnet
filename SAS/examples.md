@@ -73,3 +73,12 @@ data FOLDER.FILENAME;
   if first.studyid then output;
 run;
 ```
+
+### Leading zeros
+
+```
+data dsname;
+  set dsname;
+  DIN = put(DINPIN, z8.);  /* Eight digit */
+run;
+```
