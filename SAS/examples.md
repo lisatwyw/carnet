@@ -74,6 +74,14 @@ data FOLDER.FILENAME;
 run;
 ```
 
+### Rename column name
+
+```
+data incident( rename=(oldvar1=newvar1 oldvar2=newvar2) );
+  set obj_one.cohort_incident;
+run;
+```
+
 ### Leading zeros
 
 ```
