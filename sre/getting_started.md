@@ -7,7 +7,7 @@ Requests:
 | Date | Task | status |
 |---|---|---| 
 | 2021-Jan-24 | 1. Jupyter Notebook or Lab| pending |
-| 2021-Jan-XX | 2. Python packages | pending |
+| 2021-Feb-10 | 2. Python packages below | pending |
 
 
 ### Missing packages
@@ -16,6 +16,10 @@ Requests:
 - saspy
 - from dask.distributed import Client
 - tensorflow
+- torch
+- imblearn
+- lifelines
+- 
 
 ## Logging onto machine for first time
 
