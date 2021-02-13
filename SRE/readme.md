@@ -35,7 +35,7 @@ access.popdata.bc.ca
 
 ## Running Python code
 
-1. [Wings Personal 2019](wings.md)
+1. [Wings Personal 2019](Wings.md)
 
 2. Run Python 3.9 directly in Command prompt  <-- **Preferred over next option**
 
