@@ -8,17 +8,17 @@ Requests:
 |---|---|---| 
 | 2021-Jan-24 | 1. Jupyter Notebook or Lab| pending |
 | 2021-Feb-10 | 2. Python packages below | pending |
-
+| 2021-Feb-12 | 3. Tensorflow does not work in Python 3.9 | still true |
 
 ### Missing packages
 
 - sas7bdat
 - saspy
 - from dask.distributed import Client
-- tensorflow
-- torch
+- tensorflow [py3.5]
+- torch [py3.9]
 - imblearn
-- lifelines
+- lifelines [py3.9]
 - 
 
 ## Logging onto machine for first time
