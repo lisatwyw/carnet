@@ -33,7 +33,13 @@ access.popdata.bc.ca
 ```
 
 
-## Python in IDLE
+## Running Python code
+
+1. (Wings Personal 2019)[wings.md]
+
+2. Run Python 3.9 directly in Command prompt  <-- **Preferred over next option**
+
+3. Python in IDLE (dont recommend it)
 
 - Turn-off Auto-completion; a pain otherwise (to wait for suggestions to come up)!!!
   - Options menu (northeast corner), untic ```Enable Auto-completion```
