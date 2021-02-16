@@ -4,6 +4,7 @@
 - [Getting started](getting_started.md)
 - [Email formality of getting help](help.md)
 
+
 ## Suggestions:
 
 ### Log-off vs. disconnect  
