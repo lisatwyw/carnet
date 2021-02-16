@@ -10,16 +10,103 @@ Requests:
 | 2021-Feb-10 | 2. Python packages below | pending |
 | 2021-Feb-12 | 3. Tensorflow does not work in Python 3.9 | still true |
 
+### Python packages
+
+Feb 16th
+```
+Packages successfully Installed for version 3.9:
+
+    lxml 4.6.2
+    MarkupSafe 1.1.1
+    numpy 1.20.1
+    pandas 1.2.2
+    scikit-learn 0.24.1
+    scipy 1.6.0
+    seaborn 0.11.1
+    SQLAlchemy 1.3.23
+    bhtsne 0.1.9
+    bz2file 0.98
+    cvxpy 1.1.10
+    dill 0.3.3
+    ecos 2.0.7
+    future 0.18.2
+    google-pasta 0.2.0
+    imbalanced-learn 0.7.0
+    imblearn 0.0
+    ISR 2.2.0
+    keras-vis 0.4.1
+    knnimpute 0.1.0
+    multiprocess 0.70.11.1
+    nibabel 3.2.1
+    np-utils 0.5.12.1
+    opt-einsum 3.3.0
+    osqp 0.6.2
+    prophet 0.1.1
+    plotly 4.14.3
+    pydicom 2.1.2
+    PyWavelets 1.1.1
+    retrying 1.3.3
+    scikit-image 0.18.1
+    scs 2.1.2
+    slicer 0.0.7
+    tifffile 2021.2.1
+    torch 1.7.1
+    lifelines 0.25.9
+    scikit-survival 0.14.0
+    xgboost 1.3.3 
+
+
+Packages Successfully Installed for version 3.5:
+
+    lxml 4.6.2
+    MarkupSafe 1.1.1
+    numpy 1.18.5
+    pandas 0.25.3
+    scikit-learn 0.22.2
+    scipy 0.16.0
+    seaborn 0.9.1
+    SQLAlchemy 1.3.23
+    bhtsne 0.1.9
+    bz2file 0.98
+    cvxpy 1.1.10
+    dill 0.3.3
+    ecos 2.0.7
+    future 0.18.2
+    google-pasta 0.2.0
+    imbalanced-learn 0.7.0
+    imblearn 0.0
+    ISR 2.2.0
+    keras-vis 0.4.1
+    knnimpute 0.1.0
+    multiprocess 0.70.11.1
+    nibabel 3.0.2
+    np-utils 0.5.12.1
+    numba 0.42.0
+    opt-einsum 3.3.0
+    osqp 0.6.2
+    prophet 0.1.1
+    plotly 4.14.3
+    pydicom 2.0.0
+    PyWavelets 1.1.1
+    retrying 1.3.3
+    scikit-image 0.15.0
+    scs 2.1.2
+    tifffile 2019.7.26.2
+    lifelines 0.23.9
+    scikit-survival 0.14.0
+    jupyterlab 2.2.9
+    xgboost 1.1.1
+    llvmlite 0.27.0
+    fancyimpute 0.5.5 
+```
+
+
 ### Missing packages
 
 - sas7bdat
 - saspy
-- from dask.distributed import Client
-- tensorflow [py3.5]
-- torch [py3.9]
-- imblearn
-- lifelines [py3.9]
-- 
+- shap
+- pycox
 
 ## Logging onto machine for first time
 
