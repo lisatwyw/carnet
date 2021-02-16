@@ -2,7 +2,7 @@
 
 ## SRE
 
-- [Getting started on SRE](sre/readme.md)
+- [Getting started on SRE](SRE/readme.md)
 
 ## T4H
 
