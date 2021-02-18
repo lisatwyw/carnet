@@ -1,10 +1,13 @@
 
 ## Changing to Python 3.9
 
-1. Python Environment > Change Settings > select ```c:\Program Files\Python39\python.exe```
-2. Restart Wing
+1. ```Project```> ```Project Properties```>  ```Environment``` 
+2. Under ```Python Executable``` select ```Custom```
+3. Click downwards arrow (drop down menue)
+4. Select ```c:\Program Files\Python39\python.exe```
+5. Restart ```Wing``` (rather than continue)
 
-Note: not all machines have py3.9
+Note: not all SRE machines have py3.9 (but just py3.5)
 
 ## Debugging
 
