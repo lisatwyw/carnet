@@ -14,9 +14,9 @@
 ## Pre-publication review form:
 
 - [publication requirements](https://www.popdata.bc.ca/index.php/data_access/publishing_research_materials#)
-- [citing](https://www.popdata.bc.ca/publishing_research_materials/citingsources)
-- [prepublication review form](https://www.popdata.bc.ca/publishing_research_materials/forms/prepublicdisclosure_review#)
-
+  - See citing
+  - See prepublication review form
+  
 
 ## Misc
 
