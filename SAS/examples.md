@@ -10,7 +10,7 @@
 SELECT 
 FROM
 [LEFT JOIN]
-[WHERE]
+[WHERE] any_exclude NE 1 and HF=1;
 [ON]
 ```
 
