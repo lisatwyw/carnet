@@ -1,4 +1,19 @@
+
+
+
 # First-time examples (from a Python developer's perspective)
+
+
+## Sequence
+
+```
+SELECT 
+FROM
+[LEFT JOIN]
+[WHERE]
+[ON]
+```
+
 
 ### Simple join of two tables
 ```
@@ -26,7 +41,7 @@ run;
 ```
 /* Below generates SQL query to join 2 tables using studyid as keys */
 proc sql;
-  create table demog as
+  create table demo as
     select A.studyid, A.dob, A.sex, B.death_dt as death_date
     from 
     raw_data.births as A
@@ -42,6 +57,19 @@ proc contents data = C;
   title 'Demographic data';
 run;
 
+```
+
+
+### Create new columns
+
+```
+/* Below generates SQL query to join 2 tables using studyid as keys */
+proc sql;
+  create table demo as
+  
+  select *, datepart(sep_dt) - datepart(adm_dt) as los from bigtable;
+
+quit;
 ```
 
 
