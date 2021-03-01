@@ -10,7 +10,7 @@ Requests:
 | 2021-Feb-10 | 2. Python packages below | pending |
 | 2021-Feb-12 | 3. Tensorflow does not work in Python 3.9 | still true |
 
-### Unwritten rules
+### Rules
 
 March-1-2021
 ```
