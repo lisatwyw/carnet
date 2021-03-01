@@ -16,7 +16,9 @@ March-1-2021
 ```
 "Each login is only allowed on one SRE machine at a time."
 
-So for any project account you can only be logged in once. (inclusive regular and fast machines)  You can contact us for permission to be on more than one machine as a special exception.  Even then, we will not allow more than one login to fast machines, but additional logins on regular machines can be granted.
+So for any project account you can only be logged in once. (inclusive regular and fast machines)  
+You can contact us for permission to be on more than one machine as a special exception.
+Even then, we will not allow more than one login to fast machines, but additional logins on regular machines can be granted.
 
 -- PopData SRE Support Team
 ```
