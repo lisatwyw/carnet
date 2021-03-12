@@ -21,8 +21,11 @@ quit;
 
 ```
 proc sql;
-  select intck( 'year', dob_year_format, dod_year_format) as age_at_death from incident;
-quit;
+  select intck( 'year', B, A) as age_at_death from incident;
+quit;  
+
+# returns datepart(A) - datepart(B) in years
+
 ```
 
 ```
