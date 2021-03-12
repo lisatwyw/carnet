@@ -14,6 +14,13 @@ quit;
 
 ```
 proc sql;
-  select intck( 'hour', dob format=date9., dod format=date9.) as age_at_death from incident;
+  select intck( 'year', dob format=year9., dod format=year9.) as age_at_death from incident;
+quit;
+```
+
+
+```
+proc sql;
+  select intck( 'minute', out format=minute9., in format=minute9.) as duration_in_er from EDvisits;
 quit;
 ```
