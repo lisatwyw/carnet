@@ -9,12 +9,26 @@ General notes:
 
 TBC
 
-### Posters
+### Recruitment
 
-- Consider putting UBC logo
-- Consider audience, norms at the posting sites; e.g.
-  - At ED: one will need to laminate posters if they need to be kept for more than 30 days 
-  - Best practice is to consult nurse educators at ED; e.g. Julie and Lara 
+1. REACH BC: 
+  - consult the standard operating procedures of REACHBC on interacting with REACHBC volunteers; include them into ethics application
+  - try out the volunteer's account to understand the interface and explore ways to overcome bottlenecks 
+  - set up researchers account; create a study flyer by filling out details
+  - submit for approval
+
+2. Email invitations 
+  - invitation draft should be added to ethics; include ethics number on the invitations
+
+3. Printed posters
+
+  - Consider putting UBC logo on the poster
+  - Consider audience, norms at the posting sites; e.g.
+    i. At clinic, email Dianne for advice early on
+    ii. At ED
+      - One will need to laminate posters if they need to be kept for more than 30 days 
+      - Best practice is to consult nurse educators at ED; e.g. Julie and Lara 
+  - Answer pending: could we place posters that are larger than letter size at ED?
 
 ## Submitting ethics
 
@@ -28,17 +42,20 @@ TBC
 
 ## Additional notes
 
-- Send VCHRI operational approval forms to relevant department; e.g. Chloe / Jeff / Heather
+- Send VCHRI operational approval forms to relevant members at ED (i.e. Chloe / Jeff / Heather) for signatures
+- May attach signed form 
 
 ## Post approval 
 
-- Ethics certificate
-- https://www.vchri.ca/operational-approval (from Wylo)
+1. Ethics certificate can be downloaded on RISE
 
-## Posting recruitment materials online/ recruiting sites
+2. Follow-up on Wylo for operational approval (https://www.vchri.ca/operational-approval) if you didn't get a notice from her within 1-2 weeks of ethics approaval
 
-- REACBC 
-- print out of flyers at clinic
+3. Post recruitment materials online/ recruiting sites   
+  - Print out of flyers at clinic; set up appointment to meet with nurse educators, etc.
+
+4. Checkin with REACHBC
+
 
 ## Amendments
 
