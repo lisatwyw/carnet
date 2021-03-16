@@ -23,10 +23,10 @@ General notes:
 3. Printed posters
     - Consider putting UBC logo on the poster
     - Consider audience, norms at the posting sites; e.g.
-      i. At clinic, email Dianne for advice early on
-      ii. At ED
-        - One will need to laminate posters if they need to be kept for more than 30 days 
-        - Best practice is to consult nurse educators at ED; e.g. Julie and Lara 
+        - At clinic, email DR for advice early on
+        - At ED:
+            - One will need to laminate posters if they need to be kept for more than 30 days 
+            - Best practice is to consult nurse educators at ED; e.g. JG and LX 
     - *Answer pending: could we place posters that are larger than letter size at ED?*
 
 ## Submitting ethics
@@ -41,7 +41,7 @@ General notes:
 
 ## Additional notes
 
-- Send VCHRI operational approval forms to relevant members at ED (i.e. Chloe / Jeff / Heather) for signatures
+- Send VCHRI operational approval forms to relevant members at ED (i.e. CC / JX/ HX) for signatures
 - May attach signed form to RISE before or after ethics approval
 
 ## Post approval 
