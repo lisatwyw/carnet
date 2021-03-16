@@ -55,7 +55,7 @@ General notes:
 
 4. Checkin with REACHBC
   - First time users will be asked for a demo with the REACHBC staff
-  - More notes (reachbc.md)
+  - More notes on [REACHBC](reachbc.md)
 
 
 ## Amendments
