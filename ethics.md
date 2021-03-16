@@ -55,19 +55,24 @@ General notes:
 
 4. Checkin with REACHBC
   - First time users will be asked for a demo with the REACHBC staff
-  - More notes (reachbc.md)[here]
+  - More notes reachbc.md
 
 
 ## Amendments
 
 Reasons for such:
 - to add new study members
+- Size of font changed on posters
+- Every little detail should be documented, e.g. suggestion given to you by a kind mentor (e.g. mailing out flyers as opposed to putting up a single print one) should be recorded in form of amendment
 
-### Taks needed 
+   
+### Tasks needed 
+
 1. Filling in the PAA form 
-- What are the changes
-- Why are the changes needed
-- ...
+    - What are the changes
+    - Why are the changes needed
+    - ...
 2. Ensure you update the application package as well at the most relevant sections
+3. PI will need to submit after you have submitted the PAA; no need for revisions to PAA after
 
 Important note: keep old documents attached to the approved ethics
