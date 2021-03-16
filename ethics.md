@@ -27,7 +27,7 @@ General notes:
       ii. At ED
         - One will need to laminate posters if they need to be kept for more than 30 days 
         - Best practice is to consult nurse educators at ED; e.g. Julie and Lara 
-    - Answer pending: could we place posters that are larger than letter size at ED?
+    - *Answer pending: could we place posters that are larger than letter size at ED?*
 
 ## Submitting ethics
 
@@ -42,7 +42,7 @@ General notes:
 ## Additional notes
 
 - Send VCHRI operational approval forms to relevant members at ED (i.e. Chloe / Jeff / Heather) for signatures
-- May attach signed form 
+- May attach signed form to RISE before or after ethics approval
 
 ## Post approval 
 
@@ -51,7 +51,9 @@ General notes:
 2. Follow-up on Wylo for operational approval (https://www.vchri.ca/operational-approval) if you didn't get a notice from her within 1-2 weeks of ethics approaval
 
 3. Post recruitment materials online/ recruiting sites   
-  - Print out of flyers at clinic; set up appointment to meet with nurse educators, etc.
+  - Print out of flyers at clinic; set up appointment to meet with nurse educators regarding where you may be allowed to post at ED, etc.
+  - e.g. besides the TRIAGE desks, in wait rooms, near diagnoses
+  - bring treats along with you when you meet the nurses
 
 4. Checkin with REACHBC
   - First time users will be asked for a demo with the REACHBC staff
