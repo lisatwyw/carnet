@@ -74,7 +74,7 @@ Reasons for such:
     - What are the changes
     - Why are the changes needed
     - ...
-2. Ensure you update the application package as well at the most relevant sections
-3. PI will need to submit after you have submitted the PAA; no need for revisions to PAA after
+2. Ensure you update the application package as well at the most relevant sections. **Important note: keep old documents attached to the approved ethics**
 
-Important note: keep old documents attached to the approved ethics
+3. PI will need to submit after you have submitted the PAA (but no need for PI approval for submitting revisions to PAA at a later time)
+
