@@ -2,6 +2,7 @@
 
 - [Secure Research Environment](SRE/readme.md)
 - [SAS](SRE/readme.md) 
+- [R](R/readme.md) 
 - [Notes on Compute Canada](CC/readme.md)
 
 # Common snippets
