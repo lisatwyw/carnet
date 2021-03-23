@@ -1,9 +1,12 @@
-# Miscellaneous notes
+# Getting started notes
 
-## SRE
+- [Secure Research Environment](SRE/readme.md)
+- [SAS](SRE/readme.md) 
+- [Notes on Compute Canada](CC/readme.md)
 
-- [Getting started on SRE](SRE/readme.md)
+# Common snippets
 
-## SAS
+```
+salloc --time=3:0:0 --ntasks=2 --account=def-your_username --mem-per-cpu=24G --gres=gpu:t4:1 --nodes=2
 
-- [Notes on SAS](SAS)
+```
