@@ -43,6 +43,9 @@ General notes:
 
 - Send VCHRI operational approval forms to relevant members at ED (i.e. CC / JX/ HX) for signatures
 - May attach signed form to RISE before or after ethics approval
+- Ensure all sections are filled out and then send to Research Approvals for certification 
+    -  considerations: [ClinicalTrials.gov](clinicaltrials.md)
+
 
 ## Post approval 
 
