@@ -30,7 +30,7 @@
 13:01:03 From - - to Everyone : Answering where you’re from can be so challenging to answer, so thank you for acknowledging this
 13:01:17 From - to Everyone : Thankyou! great infomation
 13:01:39 From - - to Everyone : One phrase I like in a meeting with a new patient is “What do you think is important for me to know about you so that I can best support you as your doctor?”
-13:07:30 From - - (he, him) to Everyone : @Judith: so agree! I think that is important for opening a humble approach to collaborative care. I also include my personal pronouns, hopefully indicating an openness to all of who they may be. Part of trying to build that needed trust.
+13:07:30 From - - (he, him) to Everyone : @J: so agree! I think that is important for opening a humble approach to collaborative care. I also include my personal pronouns, hopefully indicating an openness to all of who they may be. Part of trying to build that needed trust.
 13:08:05 From - to Everyone : yes. thank you for mentioning that Michael.
 13:08:31 From - to Everyone : may the new SPH breakdown some barriers...
 13:09:27 From - to Everyone : yes. I want to increase the influence of the elder who comes here.
