@@ -27,7 +27,7 @@
 
 
 
-Macro that would create a variable ```elective_careract_```suffix```:
+Macro that would create a variable ```elective_cateract_```suffix```:
 ```
 %macro hsp_comorbid( icd10_code, suffix);
 
