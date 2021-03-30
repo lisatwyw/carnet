@@ -60,6 +60,16 @@ Details at https://r-forge.r-project.org/R/?group_id=947
 
 ```
 install.packages("doMC", repos="http://R-Forge.R-project.org")
+
+
+
+install.packages("cmprskcoxmsm", repos="http://R-Forge.R-project.org")
+install.packages("JMcmprsk", repos="http://R-Forge.R-project.org")
+install.packages("attrib", repos="http://R-Forge.R-project.org")
+install.packages("eimpute", repos="http://R-Forge.R-project.org")
+install.packages("uwot", repos="http://R-Forge.R-project.org")
+install.packages("IRSF", repos="http://R-Forge.R-project.org")
+
 ```
 
 
