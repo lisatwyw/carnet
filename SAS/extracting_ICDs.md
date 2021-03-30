@@ -1,15 +1,23 @@
 
 
 ```
-%macro comorbs();
-
+%macro comorbs();  /* defined under cohort construction macros*/
 %mend comorbs;
 ```
 
 ```
-%macro search();
-
+%macro search(); /* defined under cohort construction macros*/
 %mend search;
+```
+
+```
+%macro meds(); /* defined under cohort construction macros*/
+%mend meds;
+```
+
+```
+%macro rurality(); /* defined under cohort construction macros*/
+%mend rurality;
 ```
 
 
