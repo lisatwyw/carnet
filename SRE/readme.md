@@ -20,8 +20,6 @@
 
 ## Misc
 
-Catalog
-
 ```
 myvpn.ubc.ca 
 
@@ -45,3 +43,8 @@ access.popdata.bc.ca
 - Turn-off Auto-completion; a pain otherwise (to wait for suggestions to come up)!!!
   - Options menu (northeast corner), untic ```Enable Auto-completion```
   - Untic other options too, unless you find them helpful
+
+
+## Running R code 
+
+- 50455 x 80 vars: ```Cannot allocate 8.1GB``` if done on SRE2
