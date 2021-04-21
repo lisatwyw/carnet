@@ -29,6 +29,22 @@ df  <- read_sas('database.sas7bdat')
 summary( df )
 ```
 
+### I/O
+
+```
+libary(heaven)
+read_sas(...)
+read.csv(...)
+```
+
+### Data frame from matrix
+
+```
+df <- as.data.frame( emb )
+names[df][1] <- "Var"
+names[df][2] <- "anotherVar"
+```
+
 ```
 inds <- which( df$dx_year < 2010)
 ```
