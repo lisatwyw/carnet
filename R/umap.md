@@ -23,8 +23,18 @@ tst_data<- df[ tst_inds, finds ]
 
 ```
 library(uwot)
+
 tform = umap( trn_data )
-tst_mbed = umap_transform( tst_data, tform )
+emb = umap_transform( tst_data, tform )
+
+t<- read.csv( ) # another variable to color by
+
+# convert to df and add column t
+df=as.data.frame( emb )
+df$time2death <- t
+
+# plot
+ggplot(data=df) + geom_point( mapping = aes( x=x, y=y, color=time2death )
 
 ```
 
