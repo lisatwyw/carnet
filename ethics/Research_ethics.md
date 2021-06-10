@@ -1,4 +1,7 @@
+
 # June 10
+
+[https://docs.google.com/presentation/d/1z-71gBAhBaeKAOHIRcUNR18vDfkTWYM2AmzruFKL9iI/edit#slide=id.g9a979bb451_0_10](notes)
 
 ## Sample size calculator
 https://www.stat.ubc.ca/~rollin/stats/ssize/n2.html
