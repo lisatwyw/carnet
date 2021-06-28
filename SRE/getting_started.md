@@ -147,13 +147,20 @@ These are important notes to supplement those from [MyPopData](https://my.popdat
 
 ### Setup on local machine:
 
-1. On Mac: 
-    File Explorer: Go > ```Connect to Server```
+On Mac: 
+1. File Explorer: Go > ```Connect to Server```
 2. Enter: 
-    ```cifs://PROJECT_SPECIFIC_USERNAME@fraser.popdata.bc.ca/PROJECT_SPECIFIC_USERNAME``` 
+    ```cifs://PROJECT_SPECIFIC_USERNAME@fraser.popdata.bc.ca/PROJECT_SPECIFIC_USERNAME```     
 3. Click ```Connect```
 4. Use PROJECT_SPECIFIC_USERNAME when prompted for usename
 5. Drag files into ```IMPORT_TO_SRE```
+
+On Windows 10 Home:
+
+1. Right-click on ```This PC```, then ```Add Network Drive```
+2. ```\\fraser.popdata.bc.ca\ltang-18-095```
+3. Username: PROJECT_SPECIFIC_USERNAME
+
 
 ### On RDP machine:
 
