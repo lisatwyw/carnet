@@ -2,7 +2,9 @@
 
 ### Quantifying and Visualizing Medication Adherence in Patients Following
 Wang et al. 2017
+
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5977657/pdf/2820549.pdf
+
 ex. https://kathen.shinyapps.io/amia_visual3/
 
 ### Self-Measured Blood Pressure Monitoring at Home: A Joint Policy Statement From the American Heart Association and American Medical Association, AHA 2020
