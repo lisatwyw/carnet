@@ -60,7 +60,22 @@ Q: How each stakeholder will be impacted for each risk?
 - Measurable metrics: # of certified trainees
 - Grade: subjective
 
+### Project cost management
 
+### Project execution 
+
+Metrics:
+- efficiency 
+- quality
+- 18 registrations vs 2 attendees
+
+- Completion metrics/ closing
+- stakeholders have everything needed
+
+
+### Project management
+- ongoing basis
+- 
 
 ## Misc
 - [Notes on data science project management](data_science.md)
