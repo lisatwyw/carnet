@@ -38,6 +38,18 @@
 - identifiable, objective, measurable
 - expectations: keeping stakeholders informed so they do not feel unexpected
 
+### Risk assessement 
+
+- Brainstorming: ask each team Q
+- SWOT (more structured):
+  - strengths
+  - weaknesses
+  - opportunities 
+  - threats
+- interviewing
+- Rank and prioritization  
+
+Q: How each stakeholder will be impacted for each risk?
 
 ## Misc
 - [Notes on data science project management](data_science.md)
