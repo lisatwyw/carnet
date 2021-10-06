@@ -27,10 +27,17 @@
 
 ## Part 3
 
-Stakeholders: those fit in one or more classes:
+### Stakeholders: those fit in one or more classes:
 - active involved
 - exert influence
 - project will be impacted
 - interested in execution or project outcomes [outside]
 
-[Data science](data_science.md)
+### Requirements (vs. expectations)
+
+- identifiable, objective, measurable
+- expectations: keeping stakeholders informed so they do not feel unexpected
+
+
+## Misc
+- [Notes on data science project management](data_science.md)
