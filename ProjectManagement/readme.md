@@ -1,6 +1,8 @@
 
 # Project Management 
 
+## Part 1
+
 - Success: Achieves our goals on time and within budget 
 
 - What's a project?
@@ -11,4 +13,14 @@
     - Initiation & finalization 
 
 - Keeping on track
-  - ..
+
+## Part 2
+
+- Deliverables
+  - Forward-thinking statement
+- Smart goal's approach:
+  - Specific, measurable, agreed upon, recorded, time-framed
+   
+- Assumptions (e.g. resources, budget) need to be tracked
+  - Outcomes of previous activities
+  - 
