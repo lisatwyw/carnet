@@ -29,6 +29,8 @@
 
 Stakeholders: those fit in one or more classes:
 - active involved
+- exert influence
+- project will be impacted
+- interested in execution or project outcomes [outside]
 
-
-[data_science.md]
+[Data science](data_science.md)
