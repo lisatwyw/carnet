@@ -51,5 +51,16 @@
 
 Q: How each stakeholder will be impacted for each risk?
 
+- Funding
+- Personnel
+- Competition
+
+
+### Quality
+- Measurable metrics: # of certified trainees
+- Grade: subjective
+
+
+
 ## Misc
 - [Notes on data science project management](data_science.md)
