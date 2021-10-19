@@ -155,3 +155,13 @@ e.g. mileage/ meal costs for team members to visit sites for sample collection
 
 Aside: may need to recruit team member to faciliate knowledge translation (to communicate to donors how gift led to impactful research outcomes without needing their expertise)
   
+  
+# Matching funds
+- Cash vs in-kind
+- in-kind: value of good/ ervice
+- co-funding: separate reporting to individual donors
+
+# Post-award considerations
+
+- 
+  
