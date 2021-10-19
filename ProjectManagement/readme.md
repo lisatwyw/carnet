@@ -120,3 +120,10 @@ e.g. mileage/ meal costs for team members to visit sites for sample collection
 - underestimate: 20% avg to start, use gross salary
 - for every 5-7 FTE, add 0.2FTE to allow for leave, turnover
 
+# Budget justification
+
+- 3C's: clear, concise, complete
+- consider explaining what is not in the budget
+
+## Crashing the budget
+- non-critical path vs critical path activites/ elements
