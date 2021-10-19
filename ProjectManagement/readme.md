@@ -84,7 +84,8 @@ Metrics:
 - what and how to conduct project within budget?
 - resources
 - project activities
-
+- consider inflation, albeit some funders do not allow
+ 
 ## Techniques
 - Ballpark: " Rough order of magnitude", e.g. half hour estimate <-- least accurate
 - Analogous/ top-down
@@ -99,7 +100,7 @@ Metrics:
   - e.g. disposable lab supplies
 - services
 
-Non-trivial items: 
+### Non-trivial items 
 
 e.g. plane fare/ accommodation
 - need to understand purposes: 
@@ -111,3 +112,11 @@ e.g. plane fare/ accommodation
 e.g. mileage/ meal costs for team members to visit sites for sample collection
 - needed for conduct of project --> consumables
 - vs. staff wanting to do it (S&B)
+
+## S&B
+
+- FTE = full-time equivalent, full year
+- allow for inflation
+- underestimate: 20% avg to start, use gross salary
+- for every 5-7 FTE, add 0.2FTE to allow for leave, turnover
+
