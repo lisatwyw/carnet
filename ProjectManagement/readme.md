@@ -144,3 +144,14 @@ e.g. mileage/ meal costs for team members to visit sites for sample collection
 
 - business/private sector: IP management, project leadership/control
 - government granting agencies timeliness, responsiveness, success rate/ demand
+
+# Donor's gift
+- considerations: 
+  - will institution charge overhead?
+  - what does institution need?
+- project time period
+- eligible & ineligible expenses
+- matching funding opportunities
+
+Aside: may need to recruit team member to faciliate knowledge translation (to communicate to donors how gift led to impactful research outcomes without needing their expertise)
+  
