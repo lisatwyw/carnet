@@ -90,3 +90,24 @@ Metrics:
 - Analogous/ top-down
 - Parametric modeling - per unit
 - Bottom-up: est cost of each element
+
+## Categories
+- admin
+- equiment
+- salaries / benefits (S&B)
+- consumables: supplies / materials
+  - e.g. disposable lab supplies
+- services
+
+Non-trivial items: 
+
+e.g. plane fare/ accommodation
+- need to understand purposes: 
+  - required by funders --> administrative
+  - one shop (travel agent) to book hotel+plane+transfers --> services
+  - knowledge translation by co-Is --> consumables
+  - staff? --> S&B
+
+e.g. mileage/ meal costs for team members to visit sites for sample collection
+- needed for conduct of project --> consumables
+- vs. staff wanting to do it (S&B)
