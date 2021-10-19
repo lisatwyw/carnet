@@ -127,3 +127,20 @@ e.g. mileage/ meal costs for team members to visit sites for sample collection
 
 ## Crashing the budget
 - non-critical path vs critical path activites/ elements
+
+### Budget management principles
+- accountable
+- reportable
+- 
+
+### Monitoring
+- Contingency funds: where spent
+- Limit expense authorization
+
+### Reporting
+- Quarterly
+
+# Funding sources & considerations
+
+- business/private sector: IP management, project leadership/control
+- government granting agencies timeliness, responsiveness, success rate/ demand
