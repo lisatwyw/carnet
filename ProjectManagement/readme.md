@@ -75,7 +75,13 @@ Metrics:
 
 ### Project management
 - ongoing basis
-- 
 
 ## Misc
 - [Notes on data science project management](data_science.md)
+
+
+# Budget cost management
+- what and how to conduct project within budget?
+- resources
+- project activities
+- 
