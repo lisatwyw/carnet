@@ -84,4 +84,9 @@ Metrics:
 - what and how to conduct project within budget?
 - resources
 - project activities
-- 
+
+## Techniques
+- Ballpark: " Rough order of magnitude", e.g. half hour estimate <-- least accurate
+- Analogous/ top-down
+- Parametric modeling - per unit
+- Bottom-up: est cost of each element
