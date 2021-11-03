@@ -140,12 +140,12 @@ e.g. mileage/ meal costs for team members to visit sites for sample collection
 ### Reporting
 - Quarterly
 
-# Funding sources & considerations
+### Funding sources & considerations
 
 - business/private sector: IP management, project leadership/control
 - government granting agencies timeliness, responsiveness, success rate/ demand
 
-# Donor's gift
+#### Donor's gift
 - considerations: 
   - will institution charge overhead?
   - what does institution need?
@@ -156,12 +156,17 @@ e.g. mileage/ meal costs for team members to visit sites for sample collection
 Aside: may need to recruit team member to faciliate knowledge translation (to communicate to donors how gift led to impactful research outcomes without needing their expertise)
   
   
-# Matching funds
+#### Matching funds
 - Cash vs in-kind
 - in-kind: value of good/ ervice
 - co-funding: separate reporting to individual donors
 
-# Post-award considerations
 
-- 
+## Project execution 
+
+- Leader
+- Devil's advocate
+- Dreamer
+
+# Conflict management
   
