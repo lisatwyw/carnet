@@ -168,5 +168,7 @@ Aside: may need to recruit team member to faciliate knowledge translation (to co
 - Devil's advocate
 - Dreamer
 
-# Conflict management
+## Conflict management
   
+- not harassment or bullying
+- conflict with client, law
