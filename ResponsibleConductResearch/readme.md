@@ -1,3 +1,5 @@
 
+# Responsible Conduct of Research (RCR)
 
-https://responsible.research.ubc.ca/resources-training
+- [UBC course: mandatory for grad students](https://responsible.research.ubc.ca/resources-training)
+- [Retracted papers](https://retractionwatch.com/retracted-coronavirus-covid-19-papers/)
