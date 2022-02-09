@@ -11,11 +11,12 @@ Requests:
 | 2021-Feb-12 | 3. Tensorflow does not work in Python 3.9 | still true |
 
 ### Quick access
-
-'''
+```
+```
+```
 fast8.popdata.bc.ca
 sre60.popdata.bc.ca
-'''
+```
 
 ### Missing packages
 
