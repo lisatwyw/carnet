@@ -12,6 +12,8 @@ Requests:
 
 ### Quick access
 ```
+access.popdata.bc.ca
+POPDATA\ltang-18-095
 ```
 ```
 fast8.popdata.bc.ca
