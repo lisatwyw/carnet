@@ -2,8 +2,10 @@
 - ```tf.assign``` | ```tf.compat.v1.assign```
 - ```tf.to_int32(my_tensor )``` |  ```tf.cast(my_tensor, tf.int32)```   
 - ```tf.contrib.framework.sort``` | ```tf.compat.v1.sort```
+- - ```tf.contrib.layers.l1_regularizer``` | ```tf.compat.v1.sort```
 - ```tf.distributions.Uniform```  | ```tf.compat.v1.distributions.Uniform```
 - ```tf.lgamma```, ```tf.log```, ```tf.digamma``` | ```tf.compat.v1.lgamma, etc.```
 - ```tf.losses.absolute_difference``` | ```tf.compat.v1.losses.absolute_difference```
 - ```tf.variable_scope``` | ```tf.compat.v1.variable_scope```
+- ```tf.trainable_variables ``` | ```tf.compat.v1.trainable_variables ```
 - ```tf.random.uniform``` | ```tf.random_uniform```
