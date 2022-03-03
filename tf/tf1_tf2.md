@@ -1,12 +1,17 @@
 
 ## ```tf.assign```
 ```
-
+tf.compat.v1.assign
 ```
 
 ## ```tf.contrib.framework.sort```
 ```
 tf.compat.v1.sort
+```
+
+## ```tf.distributions.Uniform```
+```
+tf.compat.v1.distributions.Uniform
 ```
 
 
