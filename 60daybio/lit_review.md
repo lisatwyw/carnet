@@ -2,7 +2,7 @@
 ## Introduction
 
 Testing the Feasibility of Sensor-Based Home Health Monitoring (TEC4Home) to Support the Convalescence of Patients With Heart Failure: Pre-Post Study, Ho et al. 2020
-[https://pubmed.ncbi.nlm.nih.gov/34081015/]
+https://pubmed.ncbi.nlm.nih.gov/34081015/
 
 ### Quantifying and Visualizing Medication Adherence in Patients Following
 Wang et al. 2017
