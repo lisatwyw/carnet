@@ -10,22 +10,17 @@ Requests:
 | 2021-Feb-10 | 2. Python packages below | pending |
 | 2021-Feb-12 | 3. Tensorflow does not work in Python 3.9 | still true |
 
-### Quick access
+### Links
 ```
 access.popdata.bc.ca
 POPDATA\ltang-18-095
 ```
 ```
 fast8.popdata.bc.ca
-sre60.popdata.bc.ca
+sre60.popdata.bc.ca   # read below!!!
 ```
-
-### Missing packages
-
-- sas7bdat
-- saspy
-- shap
-- pycox
+ 
+ 
 
 ## Logging onto machine for first time
 
