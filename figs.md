@@ -10,5 +10,6 @@
 ![image](https://github.com/lisatwyw/carnet/assets/38703113/3eefa0d9-31d9-4347-b907-a0f9ba6c56f6)
 
 
-![image](https://github.com/lisatwyw/carnet/assets/38703113/520bce6b-fc4a-4546-a5dd-68059e3fa79f)
+![image](https://github.com/lisatwyw/carnet/assets/38703113/fad928bb-490f-4fba-9331-b4ac7447b6f7)
+
 
