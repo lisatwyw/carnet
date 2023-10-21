@@ -1,4 +1,17 @@
 
+## ```Polars```
+
+starts with b and end with any digit
+```
+(
+df.select([
+    pl.concat_str(
+        pl.col("^b_\d$").fill_null("").alias("new")
+        )
+    ])
+)
+```
+
 
 ## List comprehension with exception handling
 
