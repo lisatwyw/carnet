@@ -1,27 +1,6 @@
 
 # DOS and UNIX commands
 
-| Action	| DOS |	UNIX | |
-| :-- | :-- | :--  | |
-| change directory	| cd	| cd|
-change file protection	attrib	chmod
-compare files	comp	diff
-copy file	copy	cp
-delete directory	rd	rmdir
-directory list	dir	ls
-edit a file	edit	pico
-environment	set	printenv
-find string in file	find	grep
-help	help	man
-make directory	md	mkdir
-move file	move	mv
-rename file	ren	mv
-show date and time	date, time	date
-show disk space	chkdsk	df
-show file	type	cat
-show file by screens type filename	more	more
-sort data	sort	sort
-
 ```
 # Below works only in Linux OS
 import subprocess
